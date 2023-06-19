@@ -17,7 +17,7 @@ export default {
     </div>
 </template>
 <style>
-/* body{
+body{
   background-color:rgb(224, 221, 216)
-} */
+}
 </style>

@@ -17,6 +17,7 @@
 }
 img{
     border: 5px solid rgb(97, 67, 28);
+    box-shadow: 0px 0px 30px 5px black;
 }
     
 </style>
